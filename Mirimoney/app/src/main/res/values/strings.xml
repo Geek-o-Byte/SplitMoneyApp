@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Miri.money</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="readjournal">Click to read journal📰</string>
+    <string name="backbutton">Back to app</string>
+    <string name="tocreate">To create</string>
+    <string name="tocreategroup">To create group</string>
+    <string name="otherbuttons">Other</string>
+    <string name="create_group_button">Create group👥</string>
+    <string name="create_activity_button">Create activity💸</string>
+    <string name="to_add"></string>
+    <string name="payments">Payments</string>
+    <string name="me">My profile</string>
+    <string name="log_out">Log out 👋</string>
+</resources>

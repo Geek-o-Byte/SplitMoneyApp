@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765853332385",
+    "project_id": "miri-cc1a1",
+    "storage_bucket": "miri-cc1a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765853332385:android:62a13846a69bdc732791e0",
+        "android_client_info": {
+          "package_name": "com.example.mirimoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765853332385-dqfu591hlccs1lndscdgpjcqtpu1b5gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDY-oAHmafRuCxi_15h_Q84JG0pqFcFCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765853332385-dqfu591hlccs1lndscdgpjcqtpu1b5gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
